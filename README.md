@@ -22,7 +22,7 @@ I'm a 2nd-year Computer Science student passionate about building real-world sof
 ### 📂 Featured Projects
 
 - [**Kuro**](https://github.com/vinayaktyagi10/kuro) — A local AI terminal agent to automate common developer workflows.
-- [**Advanced To-Do Planner**](https://github.com/vinayaktyagi10/advanced_todo_planner) — A Flutter app focused on productivity and calendar sync.
+- [**Advanced To-Do Planner**](https://github.com/vinayaktyagi10/advanced_todo_planner) — A Flutter app focused on productivity.
 
 ---
 
